@@ -15,10 +15,7 @@
 <br>
 
 <p align="center">
-  <img alt="Página de avaliação da mentoria - imagem parcial" src="./images/form-parcial.png" width="100%">
-</p>
-<p align="center">
-  <img alt="Página de avaliação da mentoria - imagem completa" src="./images/form-completo.png" width="100%">
+  <img alt="Página de avaliação da mentoria - imagem parcial" src="./images/form-parcial.png" width="45%">&nbsp;&nbsp;&nbsp;<img alt="Página de avaliação da mentoria - imagem completa" src="./images/form-completo.png" width="45%">
 </p>
 
 ## 🚀 Tecnologias
