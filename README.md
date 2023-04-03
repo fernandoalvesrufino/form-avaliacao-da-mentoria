@@ -4,7 +4,7 @@
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
-  <a href="#readme-in-portuguese">License</a>
+  <a href="#readme-in-portuguese">README in Portuguese</a>
 </p>
 
 <p align="center">
