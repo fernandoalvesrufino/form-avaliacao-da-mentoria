@@ -31,7 +31,7 @@ This project was developed with the following technologies:
 Challenge...
 Mentorship evaluation form developed.
 
-To access the finished project, click here.
+- To access the finished project, [click here](https://fernandoalvesrufino.github.io/form-avaliacao-da-mentoria/).
 
 ## :memo: License
 
